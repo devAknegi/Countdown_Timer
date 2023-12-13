@@ -28,7 +28,7 @@
 
 ## 🌐 Deployment
 
-The app is deployed on Vercel. [Link to the deployed app](#)
+The app is deployed on Vercel. [Link to the deployed app](https://countdown-timer-theta-six.vercel.app/)
 
 ## 🤝 Contributing
 
